@@ -5,6 +5,9 @@
 }
 
 .caja1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: yellow;
     border: 2px solid black;
     height: 100px;
@@ -14,6 +17,9 @@
 }
 
 .caja2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: red;
     border: 2px solid black;
     height: 100px;
@@ -23,6 +29,9 @@
 }
 
 .caja3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: blue;
     border: 2px solid black;
     height: 100px;
@@ -33,6 +42,9 @@
 }
 
 .caja4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: mediumvioletred;
     border: 2px solid black;
     height: 100px;

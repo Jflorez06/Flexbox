@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.caja1 {
+    background: yellow;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.caja2 {
+    background-color: red;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.caja3 {
+    background-color: blue;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja4 {
+    background-color: mediumvioletred;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja5 {
+    background-color: green;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja6 {
+    background-color: orangered;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja7 {
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja8 {
+    background-color: aqua;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja9 {
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja10 {
+    background-color: brown;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja11 {
+    background-color: chartreuse;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja12 {
+    background-color: crimson;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja13 {
+    background-color: darkblue;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
+
+.caja14 {
+    background-color: darkcyan;
+    border: 2px solid black;
+    height: 100px;
+    border-radius: 40px;
+    padding: 20px;
+    margin-top: 10px;  
+    margin-bottom: 10px;  
+}
